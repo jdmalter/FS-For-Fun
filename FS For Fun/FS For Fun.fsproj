@@ -48,6 +48,10 @@
     <None Include="03_Sum.fsx" />
     <None Include="04_Sorting.fsx" />
     <None Include="05_Downloading.fsx" />
+    <None Include="06_Concepts.fsx" />
+    <None Include="08_Inference.fsx" />
+    <None Include="09_Definitons.fsx" />
+    <None Include="10_Boilerplate.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
