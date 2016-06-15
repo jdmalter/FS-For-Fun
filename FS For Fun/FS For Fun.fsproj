@@ -52,6 +52,8 @@
     <None Include="08_Inference.fsx" />
     <None Include="09_Definitons.fsx" />
     <None Include="10_Boilerplate.fsx" />
+    <None Include="11_Functions.fsx" />
+    <None Include="12_Matching.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
