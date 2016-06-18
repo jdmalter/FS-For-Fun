@@ -58,6 +58,10 @@
     <None Include="15_Interface.fsx" />
     <None Include="16_Partial.fsx" />
     <None Include="17_Active.fsx" />
+    <None Include="19_Immutability.fsx" />
+    <None Include="20_Exhaustive.fsx" />
+    <None Include="21_Type.fsx" />
+    <None Include="21_Designing.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
