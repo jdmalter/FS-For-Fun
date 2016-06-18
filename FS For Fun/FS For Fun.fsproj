@@ -54,6 +54,10 @@
     <None Include="10_Boilerplate.fsx" />
     <None Include="11_Functions.fsx" />
     <None Include="12_Matching.fsx" />
+    <None Include="14_Behavior.fsx" />
+    <None Include="15_Interface.fsx" />
+    <None Include="16_Partial.fsx" />
+    <None Include="17_Active.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
