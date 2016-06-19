@@ -62,6 +62,8 @@
     <None Include="20_Exhaustive.fsx" />
     <None Include="21_Type.fsx" />
     <None Include="21_Designing.fsx" />
+    <None Include="28_Interoperation.fsx" />
+    <None Include="29_Anything.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
