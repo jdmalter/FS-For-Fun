@@ -55,6 +55,8 @@
     <None Include="04_Types.fsx" />
     <None Include="05_Currying.fsx" />
     <None Include="06_Partial.fsx" />
+    <None Include="07_Associativity.fsx" />
+    <None Include="08_Defining.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
