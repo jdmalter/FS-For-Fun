@@ -57,6 +57,8 @@
     <None Include="06_Partial.fsx" />
     <None Include="07_Associativity.fsx" />
     <None Include="08_Defining.fsx" />
+    <None Include="09_Signatures.fsx" />
+    <None Include="10_Organizing.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
