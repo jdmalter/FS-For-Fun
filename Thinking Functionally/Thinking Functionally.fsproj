@@ -59,6 +59,8 @@
     <None Include="08_Defining.fsx" />
     <None Include="09_Signatures.fsx" />
     <None Include="10_Organizing.fsx" />
+    <None Include="11_Extensions.fsx" />
+    <None Include="12_Calculator.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
