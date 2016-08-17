@@ -51,6 +51,7 @@
     <None Include="06_Naming.fsx" />
     <None Include="07_Control.fsx" />
     <None Include="08_Exceptions.fsx" />
+    <None Include="09_Matching.fsx" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
