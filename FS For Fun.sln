@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FS For Fun", "FS For Fun", "{BD9F9618-613E-4E2F-9338-19E374A09FB4}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Coding Challenges", "Coding Challenges\Coding Challenges.fsproj", "{7BE59811-59BF-47F7-9D59-86AD232ED7C1}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Expressions and Syntax", "Expressions and Syntax\Expressions and Syntax.fsproj", "{9EFE3709-0A79-47C2-B64C-D3FA730E28A5}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Understanding FS Types", "Understanding FS Types\Understanding FS Types.fsproj", "{A50D90B2-81F6-4037-9CBE-1142978DE5F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{9EFE3709-0A79-47C2-B64C-D3FA730E28A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EFE3709-0A79-47C2-B64C-D3FA730E28A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EFE3709-0A79-47C2-B64C-D3FA730E28A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50D90B2-81F6-4037-9CBE-1142978DE5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50D90B2-81F6-4037-9CBE-1142978DE5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50D90B2-81F6-4037-9CBE-1142978DE5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50D90B2-81F6-4037-9CBE-1142978DE5F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,5 +50,6 @@ Global
 		{BD6C2FF1-E95B-4F6B-BB86-2A22A9CB890E} = {BD9F9618-613E-4E2F-9338-19E374A09FB4}
 		{7BE59811-59BF-47F7-9D59-86AD232ED7C1} = {BD9F9618-613E-4E2F-9338-19E374A09FB4}
 		{9EFE3709-0A79-47C2-B64C-D3FA730E28A5} = {BD9F9618-613E-4E2F-9338-19E374A09FB4}
+		{A50D90B2-81F6-4037-9CBE-1142978DE5F7} = {BD9F9618-613E-4E2F-9338-19E374A09FB4}
 	EndGlobalSection
 EndGlobal
