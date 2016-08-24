@@ -58,6 +58,7 @@
     <None Include="02_Overview.fsx" />
     <None Include="03_Abbreviations.fsx" />
     <None Include="04_Tuples.fsx" />
+    <None Include="05_Records.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
