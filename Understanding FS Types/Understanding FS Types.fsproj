@@ -59,6 +59,7 @@
     <None Include="03_Abbreviations.fsx" />
     <None Include="04_Tuples.fsx" />
     <None Include="05_Records.fsx" />
+    <None Include="06_Unions.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
