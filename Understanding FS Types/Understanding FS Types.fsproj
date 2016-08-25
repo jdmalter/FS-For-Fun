@@ -61,6 +61,8 @@
     <None Include="05_Records.fsx" />
     <None Include="06_Unions.fsx" />
     <None Include="07_Option.fsx" />
+    <None Include="08_Enum.fsx" />
+    <None Include="09_Built-in.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
