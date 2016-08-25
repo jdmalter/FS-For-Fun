@@ -60,6 +60,7 @@
     <None Include="04_Tuples.fsx" />
     <None Include="05_Records.fsx" />
     <None Include="06_Unions.fsx" />
+    <None Include="07_Option.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
