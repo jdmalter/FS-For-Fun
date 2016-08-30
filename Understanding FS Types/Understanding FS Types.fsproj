@@ -63,6 +63,7 @@
     <None Include="07_Option.fsx" />
     <None Include="08_Enum.fsx" />
     <None Include="10_Built-in.fsx" />
+    <None Include="11_Measure.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
