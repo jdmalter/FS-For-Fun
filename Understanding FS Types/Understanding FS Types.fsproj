@@ -64,6 +64,7 @@
     <None Include="08_Enum.fsx" />
     <None Include="10_Built-in.fsx" />
     <None Include="11_Measure.fsx" />
+    <None Include="12_Inference.fsx" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
